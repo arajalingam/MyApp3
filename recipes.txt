@@ -1,0 +1,8 @@
+welcome to fruits world
+
+1. apple
+2. orange
+3. mango
+4. avacado
+5. jackfruit
+~
